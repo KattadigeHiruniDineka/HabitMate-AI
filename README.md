@@ -247,7 +247,7 @@ streamlit run app.py
 
 
 ```
-https://habitmate-ai-6vev3jlk6rckgihu3zfvhb.streamlit.app/
+https://habitmate-ai-6vev3jlk6rckgihu3zfvhb.streamlit.app
 ```
 
 ---
