@@ -290,25 +290,15 @@ https://habitmate-ai.streamlit.app
 
 ---
 
-# 🌿 GitHub Development Workflow
+# 👩‍💻 Developer Information
 
-The project uses feature-based development.
+**Developer Name:** K. Hiruni Dineka  
 
-Branches:
+**Module:** IT41043 – Intelligent Systems (Agentic AI)  
 
-```
-main
-
-
-
-
-# 👩‍💻 Developer
-
-**Name:** K.Hiruni Dineka
-
-**Module:** IT41043 – Intelligent Systems
-
-**Project:** HabitMate AI
+**Project Title:** HabitMate AI  
 
 **Description:**  
-Multi-Agent AI Assistant for Habit and Productivity Improvement
+Multi-Agent AI Assistant for Habit and Productivity Improvement.
+
+HabitMate AI helps university students improve habits, productivity, learning skills, and time management using Agentic AI, RAG architecture, and knowledge-based recommendations.
