@@ -59,13 +59,8 @@ Reflection Agent
    Streamlit Interface
 ```
 
-(Add your architecture diagram image here)
 
-Example:
 
-```
-images/architecture.png
-```
 
 ---
 
@@ -115,7 +110,7 @@ Final AI Response
 - Reviews generated responses
 - Improves final output quality
 
-(Add agent communication diagram here)
+
 
 ---
 
@@ -222,7 +217,7 @@ HabitMate-AI/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/khirunidineka/HabitMate-AI.git
+git clone https://github.com/KattadigeHiruniDineka/HabitMate-AI
 ```
 
 ## Navigate to Project
@@ -237,13 +232,7 @@ cd HabitMate-AI
 pip install -r requirements.txt
 ```
 
-## Create Environment File
 
-Create a `.env` file:
-
-```
-GROQ_API_KEY=your_api_key_here
-```
 
 ## Run Application
 
@@ -310,18 +299,8 @@ Branches:
 ```
 main
 
-├── feature/rag-pipeline
 
-├── feature/agent-orchestration
 
-├── feature/streamlit-ui
-
-└── feature/model-router
-```
-
-Features are merged into the main branch through Pull Requests.
-
----
 
 # 👩‍💻 Developer
 
