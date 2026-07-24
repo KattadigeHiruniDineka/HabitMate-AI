@@ -244,12 +244,10 @@ streamlit run app.py
 
 # 🚀 Live Streamlit Demo
 
-(Add your deployed Streamlit Cloud URL here)
 
-Example:
 
 ```
-https://habitmate-ai.streamlit.app
+https://habitmate-ai-6vev3jlk6rckgihu3zfvhb.streamlit.app/
 ```
 
 ---
