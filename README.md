@@ -294,17 +294,6 @@ A short demonstration of HabitMate AI:
 - Add Database Integration
 - Add Multi-language Support
 
----
-## Model Selection
-
-HabitMate AI uses the Groq LLM for response generation.
-
-### Why Groq?
-
-- Fast inference speed
-- Free developer API
-- LangChain compatible
-- Suitable for real-time Streamlit applications
 
 ---
 
