@@ -17,7 +17,7 @@ from agents.reflection import reflection
 st.title("🌱 HabitMate AI ")
 
 
-# User Type
+# User Types
 user_type = st.selectbox(
     "Select User Type",
     [
@@ -28,7 +28,7 @@ user_type = st.selectbox(
 )
 
 
-# Goal
+# Goals
 goal = st.text_input(
     "Your Goal"
 )
