@@ -248,7 +248,11 @@ Click here to try HabitMate AI:
 
 https://habitmate-ai-6vev3jlk6rckgihu3zfvhb.streamlit.app
 ---
+## 🖥️ Application Interface
 
+![HabitMate AI Interface](screenshots/habitmate-ui.png)
+
+---
 # 💻 Technologies Used
 
 - Python
