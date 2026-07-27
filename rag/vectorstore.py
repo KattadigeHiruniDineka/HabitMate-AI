@@ -16,7 +16,7 @@ def create_vector_db():
     )
 
 
-    # ChromaDB already exists
+    # ChromaDB already exist
     if os.path.exists(CHROMA_PATH):
 
         db = Chroma(
