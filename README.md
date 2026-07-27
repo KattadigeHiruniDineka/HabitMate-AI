@@ -244,9 +244,9 @@ streamlit run app.py
 
 ## 🚀 Live Streamlit Demo
 
-Click here to try HabitMate AI:
+Click here to try HabitMate AI: https://habitmate-ai-6vev3jlk6rckgihu3zfvhb.streamlit.app
 
-https://habitmate-ai-6vev3jlk6rckgihu3zfvhb.streamlit.app
+
 ---
 ## 🎥 Demo Video
 
