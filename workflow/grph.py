@@ -132,3 +132,13 @@ def create_agent_workflow():
 
 
     return workflow.compile()
+
+    # Create the LangGraph workflow
+
+# Analyzer node
+
+# Retriever node
+
+# Generator node
+
+# Final response
