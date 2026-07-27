@@ -242,14 +242,11 @@ streamlit run app.py
 
 ---
 
-# 🚀 Live Streamlit Demo
+## 🚀 Live Streamlit Demo
 
+Try the deployed application here:
 
-
-```
 https://habitmate-ai-6vev3jlk6rckgihu3zfvhb.streamlit.app
-```
-
 ---
 
 # 💻 Technologies Used
@@ -285,6 +282,18 @@ https://habitmate-ai-6vev3jlk6rckgihu3zfvhb.streamlit.app
 - Add Mobile Application
 - Add Database Integration
 - Add Multi-language Support
+
+---
+## Model Selection
+
+HabitMate AI uses the Groq LLM for response generation.
+
+### Why Groq?
+
+- Fast inference speed
+- Free developer API
+- LangChain compatible
+- Suitable for real-time Streamlit applications
 
 ---
 
