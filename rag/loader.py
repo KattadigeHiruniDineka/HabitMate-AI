@@ -22,7 +22,7 @@ def load_documents():
                 documents.extend(loader.load())
 
 
-    # Split documents into smaller chunks
+    # Split documents into smaller chunk
     text_splitter = RecursiveCharacterTextSplitter(
         chunk_size=500,
         chunk_overlap=100
